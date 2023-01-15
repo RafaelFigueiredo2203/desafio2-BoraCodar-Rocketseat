@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto faz parte de uma séries de desafios proposto pela [Rocketseat!](https://rocketseat.com.br) com o intuito de ajudar a criar um portfólio completo, e ainda impulsionar a praticar programação toda semana.
 
-- [Acesse o projeto finalizado, online](https://waltcoder.github.io/card-de-produto)
+- [Acesse o projeto finalizado, online](https://desafio2-projeto360.vercel.app/)
 
 ## 🔖 Layout
 
