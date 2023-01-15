@@ -24,9 +24,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS(Tailwindcss)
-- JavaScript
-- Git e Github
+- ReactJs
+- Vite
+- Typescript
+- SASS
 - Figma
 
 ## 💻 Projeto
