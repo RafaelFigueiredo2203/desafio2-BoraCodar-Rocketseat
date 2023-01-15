@@ -7,7 +7,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  
 </p>
 
 <p align="center">
@@ -39,9 +39,7 @@ Este projeto faz parte de uma séries de desafios proposto pela [Rocketseat!](ht
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/dUIyDhI3gxonA5Lz3DD0U8/). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
 
-Esse projeto está sob a licença MIT.
 
 ---
 
