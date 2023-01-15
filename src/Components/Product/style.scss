@@ -1,0 +1,36 @@
+.bodyProduct{
+  width: 549px;
+  height: 353px;
+  left: -366px;
+  top: -8px;
+    margin-left: 100px;
+
+    .button360{
+        border-radius: 30px;
+        border: none;
+        background-color: #D9CDF7;
+        display: flex;
+        position: absolute;
+        margin-left: 490px;
+
+        img{
+            width:40px
+        }
+        img.exit{
+          width:20px
+      }
+    }
+    .button360:hover{
+      cursor: pointer;
+      opacity: 0.6;
+    }
+
+  img{
+    width: 600px;
+    transition: 0.3;
+  }
+  img:active img{
+    transform : rotate3d(0 , 1 , 0,180deg)
+  }
+  
+}
